@@ -11,7 +11,3 @@
 
 Cette application utilise la solution TALL stack (🌬️ Tailwind, ⛰️ Alpine.js, 📦 Laravel et 🦑 Livewire) et est semblable aux plateformes que l'on peut trouver sur internet qui mettent en relation les freelances et les clients sur des missions. Elle embarque des fonctionnalités comme un système de recherche avec les keydown events, système de favoris, chats entre freelances et clients, une classe livewire dédiée aux flash messages, des policies et plein d'autres choses. 
 
-## Apprendre à développer cette application
-
-Ma <a href="https://youtube.com/nordcoders">chaîne YouTube</a> propose une série de vidéos afin d'apprendre à mettre en place ce genre d'application :)
-
